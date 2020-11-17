@@ -222,7 +222,7 @@ container2 {
 
 	h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 		font-family: "Inter", sans-serif;
-		font-weight:100;
+		font-weight:400;
 		margin: 0px;
 	}
 
@@ -500,11 +500,11 @@ container2 {
 
 
 	.ultrabold{
-		font-weight: 900;
+		font-weight: 700;
 	}
 
 	.extrabold{
-		font-weight: 800;
+		font-weight: 700;
 	}
 
 	.bold{
@@ -512,7 +512,7 @@ container2 {
 	}
 
 	.semibold{
-		font-weight: 600;
+		font-weight: 500;
 	}
 
 	.normal{
@@ -520,11 +520,11 @@ container2 {
 	}
 	
 	.light{
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	.lighter{
-		font-weight: 100;
+		font-weight: 400;
 	}
 	
 	
