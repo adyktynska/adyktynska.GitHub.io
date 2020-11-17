@@ -1182,18 +1182,26 @@ border: 0px;
 	
 	.big-text-full h2{
 		max-width: 100%;
+        font-family: "Inter";
+        font-weight: 400;
 	}
 	
 	.big-text-full h3{
 		max-width: 100%;
+        font-family: "Inter";
+        font-weight: 400;
 	}
 	
 	.big-text h2{
 		max-width: 600px;
+        font-family: "Inter";
+        font-weight: 400;
 	}
 	
 	.big-text h3{
 		max-width: 800px;	
+        font-family: "Inter";
+        font-weight: 400;
 	}
 	
 	.big-text h2,
@@ -2613,7 +2621,7 @@ border: 0px;
     text-align: left;
     line-height: 1.4;
     font-family: "Inter";
-    font-weight: 500;
+    font-weight: 400;
     text-align: left;
     padding-top: 40px;
     padding-bottom: 5px;
@@ -2623,6 +2631,7 @@ border: 0px;
 
 .portfoliosubtitle {
 font-family: "Inter";
+    font-weight: 400;
     font-size: 28px;
     color: #626262;
     text-align: left;
@@ -2639,6 +2648,7 @@ font-family: "Inter";
     text-align: left;
     line-height: 1.4;
       padding-bottom: 10px;
+    font-weight: 400;
     
 }
 
@@ -2724,12 +2734,13 @@ line-height: 1;
     font-size: 22px;
     color: white;
     padding-bottom: 20px;
+    font-weight: 400;
 }
 
 .toplogo {
     font-size: 22px;
     color: rgb(68, 66, 66);
-    font-weight: 500;
+    font-weight: 400;
   
 }
 
@@ -2740,7 +2751,6 @@ line-height: 1;
     color: rgb(49, 49, 49);
     text-align: left;
     line-height: 1.5;
-    
     font-weight: 500;
     text-align: left;
 }
@@ -2914,7 +2924,7 @@ h3.top {
     color: rgb(49, 49, 49);
     text-align: left;
     line-height: 1.3;
-    font-weight: 500;
+    font-weight: 400;
     text-align: left;
     padding-top: 10px;
     padding-bottom: px;
@@ -2927,7 +2937,7 @@ h3.top {
    color: #7e7e7e;
     text-align: left;
     line-height: 1.3;
-    font-weight: 500;
+    font-weight: 400;
     text-align: left;
     padding-top: 10px;
     padding-bottom: 5px;
